@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -117,7 +117,7 @@
 <layer number="251" name="SMDround" color="7" fill="1" visible="no" active="no"/>
 <layer number="254" name="cooling" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
-<schematic>
+<schematic xreflabel="%F%N/%S" xrefpart="/%S">
 <libraries>
 <library name="SparkFun-Passives">
 <description>&lt;h3&gt;SparkFun Electronics' preferred foot prints&lt;/h3&gt;
@@ -9484,6 +9484,7 @@ on the board (not recommended).</text>
 <text x="198.12" y="175.26" size="1.778" layer="97">Squished PCB layout</text>
 <text x="198.12" y="172.72" size="1.778" layer="97">Added 6-pin SIP to end of board</text>
 <text x="198.12" y="170.18" size="1.778" layer="97">Added comments to schematic</text>
+<text x="241.3" y="7.62" size="1.27" layer="94">v13</text>
 </plain>
 <instances>
 <instance part="R1" gate="G$1" x="45.72" y="160.02" smashed="yes">
