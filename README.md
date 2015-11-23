@@ -1,3 +1,5 @@
+NOTE: THESE FILES ARE UNTESTED. USE AT YOUR OWN RISK
+
 Tiny-AVR-Programmer
 ===================
 
